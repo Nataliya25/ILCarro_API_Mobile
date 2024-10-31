@@ -1,4 +1,4 @@
-package api_tests.okhttptests;
+package api_tests;
 
 import dto.ErrorMessageDtoString;
 import dto.RegistrationBodyDto;

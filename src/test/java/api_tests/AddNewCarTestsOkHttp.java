@@ -1,4 +1,4 @@
-package api_tests.okhttptests;
+package api_tests;
 
 import dto.*;
 import interfaces.Base_Api;

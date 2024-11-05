@@ -25,6 +25,7 @@ dependencies {
 
     implementation 'com.google.code.gson:gson:2.8.6'
 
+    implementation 'io.rest-assured:rest-assured:4.5.1'
 }
 
 test {
